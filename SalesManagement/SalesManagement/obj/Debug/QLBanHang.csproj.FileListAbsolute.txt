@@ -1,0 +1,13 @@
+C:\Users\Thu Le\source\repos\SalesManagement\SalesManagement\bin\Debug\SalesManagement.exe.config
+C:\Users\Thu Le\source\repos\SalesManagement\SalesManagement\bin\Debug\SalesManagement.exe
+C:\Users\Thu Le\source\repos\SalesManagement\SalesManagement\bin\Debug\SalesManagement.pdb
+C:\Users\Thu Le\source\repos\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Login.resources
+C:\Users\Thu Le\source\repos\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Properties.Resources.resources
+C:\Users\Thu Le\source\repos\SalesManagement\SalesManagement\obj\Debug\QLBanHang.csproj.GenerateResource.cache
+C:\Users\Thu Le\source\repos\SalesManagement\SalesManagement\obj\Debug\QLBanHang.csproj.CoreCompileInputs.cache
+C:\Users\Thu Le\source\repos\SalesManagement\SalesManagement\obj\Debug\SalesManagement.exe
+C:\Users\Thu Le\source\repos\SalesManagement\SalesManagement\obj\Debug\SalesManagement.pdb
+C:\Users\Thu Le\source\repos\SalesManagement\SalesManagement\bin\Debug\MaterialSkin.dll
+C:\Users\Thu Le\source\repos\SalesManagement\SalesManagement\obj\Debug\QLBanHang.csproj.CopyComplete
+C:\Users\Thu Le\source\repos\SalesManagement\SalesManagement\obj\Debug\QLBanHang.csproj.AssemblyReference.cache
+C:\Users\Thu Le\source\repos\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Employee.resources
